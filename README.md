@@ -1,8 +1,19 @@
 Hi! My name is Sanjh Chhatrasal 😄
-🌍  I am a Front-End Developer based in Bhopal, Madhya Pradesh.
+========================================================================================================================================
 
-Skills
-[My Skills](https://camo.githubusercontent.com/58f3bb5e9f1ec95d227fa76b8c193717043b64b4278ce955bdc5e9a3b59d8a77/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c637373)       My Skills       My Skills       My Skills       My Skills
+🌍  I am a Front-End Developer based in Bhopal Madhya Pradesh.
+<br/>
 
-Socials
-LinkedIn Badge
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+<br/>
+
+### Socials
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/stefan-topalovic-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
