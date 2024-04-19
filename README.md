@@ -12,7 +12,7 @@ Hi! My name is Sanjh Chhatrasal 😄
 ### Socials
 
 <div id="badges">
-  <a href="[https://www.linkedin.com/in/stefan-topalovic-dev/](https://www.linkedin.com/in/sanjh-chhatrasal-663b66262/?originalSubdomain=in)">
+  <a href="https://www.linkedin.com/in/sanjh-chhatrasal-663b66262/?originalSubdomain=in">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
