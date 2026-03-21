@@ -1,7 +1,7 @@
 Hi! My name is Sanjh Chhatrasal 😄
 ========================================================================================================================================
 
-🌍  I am a Full Stack Developer based in Bhopal Madhya Pradesh.
+🌍  I am a Software Developer based in Gurugram.
 <br/>
 
 ### Skills
